@@ -2,10 +2,12 @@
 
 The keycode Generator was one of three tasks set in week 3 of the CodeNation Software Developer bootcamp. 
 
-## Brief:
+## Criteria:
 
-A welcome message should be displayed (in any form). The generator should wait for a key to be pressed, once the key is pressed, the generator should report the: Code, Key and which Values.
-Appropriate styling should be applied. 
+1.A welcome message should be displayed (in any form). 
+2.The generator should wait for a key to be pressed.
+3.Once the key is pressed, the generator should report the: Code, Key and which Values.
+4.Appropriate styling should be applied. 
 
 # Feedback:     
 
