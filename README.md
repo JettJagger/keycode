@@ -7,7 +7,9 @@ The keycode Generator was one of three tasks set in week 3 of the CodeNation Sof
 A welcome message should be displayed (in any form). The generator should wait for a key to be pressed, once the key is pressed, the generator should report the: Code, Key and which Values.
 Appropriate styling should be applied. 
 
-## Feedback:     Score: 79.17/100
+# Feedback:     
+
+## Score: 79.17/100
 
 Thanks for submitting your assignment in good time.
 
